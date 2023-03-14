@@ -1,4 +1,4 @@
-staged
+working
 added new file
 third line
 fourth line
