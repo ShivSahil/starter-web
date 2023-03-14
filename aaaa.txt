@@ -1,4 +1,4 @@
-ffffffff
+staged
 added new file
 third line
 fourth line
