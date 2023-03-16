@@ -1,2 +1,2 @@
 file editted
-new branch
+new branch      master
