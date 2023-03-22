@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-testing etl
+testing etl - conf
 validating performance
 introducing security testing
+here there will be a conflict
