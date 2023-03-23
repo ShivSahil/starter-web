@@ -1,5 +1,12 @@
 <<<<<<< HEAD
-editted in master branch
+making few edits to master branch
+
+
+remote
+lets work on the fetch
+
 =======
-editted in "troubled" branch
->>>>>>> 1e01ce8 (troubled branch commit)
+making few edits to master branch
+local
+lets work on the fetch
+>>>>>>> 8978871 (local newData)
