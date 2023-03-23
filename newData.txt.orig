@@ -2,11 +2,23 @@
 making few edits to master branch
 
 
-remote
+
+
+
+
+
+remote rebase
+
 lets work on the fetch
+
+
 
 =======
 making few edits to master branch
-local
+
+
+
+local rebase
 lets work on the fetch
->>>>>>> 8978871 (local newData)
+
+>>>>>>> 5793d6b (local rebase)
