@@ -1,2 +1,4 @@
-remote pull
-
+remote pull --rebase
+
+
+
