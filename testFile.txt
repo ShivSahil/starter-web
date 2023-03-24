@@ -1,1 +1,1 @@
-local merge
+remote rebase
