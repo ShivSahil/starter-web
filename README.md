@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-## Purpose
+## Purposecvzvzdv
 
 Sample website with plenty of files for demos
 
